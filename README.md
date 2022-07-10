@@ -1,4 +1,4 @@
-# Teknik-Komputer-Jaringan🌐
+# Teknik-Komputer-Jaringan 🌐
 
 >Zaman sekarang, Internet dan World Wide Web (WWW) sangat populer di seluruh dunia. 
 Banyak masyarakat yang membutuhkan aplikasi yang berbasis Internet, seperti E-Mail dan 
