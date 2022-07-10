@@ -41,13 +41,17 @@ berkembang tersebut.
 <p> NFSNET
 NSFNET, National Science Foundation (NSF) Network. Terdiri dari 3 bagian internetworking 
 di Amerika, yaitu :
+
 - Backbone, jaringan yang terbentuk dari jaringan tingkat menengah (mid-level) dan
 jaringan supercomputer.
+
 - Jaringan tingkat menengah (mid-level) terdiri dari regional, berbasis disiplin dan
 jaringan konsorsium superkomputer.
+
 - Jaringan kampus, akademik maupun komersial yang terhubung ke jaringan tingkat
 menengah.
-1.2.3. Penggunaan Internet secara komersial
+
+<p> Penggunaan Internet secara komersial
 Penggunaan internet berawal dari Acceptable Use Policy (AUP) tahun 1992, dimana
 menyebutkan internet dapat digunakan untuk komersial. Internet Service Provider mulai
 membangun bisnis diantaranya PSINet dan UUNET, kemudian menyusul CERFNet dan
